@@ -1,0 +1,27 @@
+.container {
+    width: 646px;
+    background-color: whitesmoke;
+}
+
+.form-horizontal {
+    width: 100%;
+}
+
+.navbar .nav > li > a {
+    color: #63666A;
+    
+}
+
+.navbar .nav > li > a:hover {
+    color: #085BFF;
+}
+
+
+.form-horizontal .control-label {
+    text-align: left;
+    padding-left:20px;
+}
+
+h2{
+	padding-left:20px;	
+}
