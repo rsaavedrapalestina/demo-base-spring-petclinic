@@ -19,7 +19,7 @@
 
 
     
-    <img style="padding-left:120px;" src="http://www.machinetomachinemagazine.com/wp-content/uploads/2015/09/ACCENTURE.gif" alt="testing" >  
+    <img style="margin-left: 185px;" src="https://www.accenture.com/t00010101T000000Z__w__/mx-es/_acnmedia/Accenture/DigitasLBi/new-applied-now/images/grid-items/static-images/Imagine-Invent-Change-English.pngla=es-LA" alt="Accenture">  
 
 
 	
